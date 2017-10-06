@@ -4,7 +4,7 @@ import com.activeandroid.query.Select;
 
 import java.util.List;
 
-import br.com.filipepinato.meusgames.model.Game;
+import br.com.filipepinato.meusgames.models.Game;
 
 public class GameDAO {
     public List<Game> findAll(){

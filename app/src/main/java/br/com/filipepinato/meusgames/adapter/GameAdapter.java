@@ -12,7 +12,7 @@ import android.widget.TextView;
 import java.util.List;
 
 import br.com.filipepinato.meusgames.R;
-import br.com.filipepinato.meusgames.model.Game;
+import br.com.filipepinato.meusgames.models.Game;
 
 public class GameAdapter extends
         RecyclerView.Adapter<GameAdapter.GameViewHolder> {

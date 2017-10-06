@@ -15,10 +15,10 @@
             android:value="games" />
         <meta-data
             android:name="AA_DB_VERSION"
-            android:value="1" />
+            android:value="2" />
         <meta-data
             android:name="AA_MODELS"
-            android:value="br.com.filipepinato.meusgames.model" />
+            android:value="br.com.filipepinato.meusgames.models" />
 
         <activity android:name=".MainActivity">
             <intent-filter>

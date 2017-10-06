@@ -1,4 +1,4 @@
-package br.com.filipepinato.meusgames.model;
+package br.com.filipepinato.meusgames.models;
 
 import com.activeandroid.Model;
 import com.activeandroid.annotation.Column;

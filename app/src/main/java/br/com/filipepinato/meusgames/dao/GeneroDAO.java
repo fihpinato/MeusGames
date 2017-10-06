@@ -4,7 +4,7 @@ import com.activeandroid.query.Select;
 
 import java.util.List;
 
-import br.com.filipepinato.meusgames.model.Genero;
+import br.com.filipepinato.meusgames.models.Genero;
 
 public class GeneroDAO {
 

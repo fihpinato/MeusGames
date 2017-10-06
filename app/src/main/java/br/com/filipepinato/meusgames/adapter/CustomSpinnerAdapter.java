@@ -1,7 +1,6 @@
 package br.com.filipepinato.meusgames.adapter;
 
 import android.content.Context;
-import android.content.res.ColorStateList;
 import android.graphics.Color;
 import android.view.Gravity;
 import android.view.View;
@@ -12,7 +11,7 @@ import android.widget.TextView;
 
 import java.util.List;
 
-import br.com.filipepinato.meusgames.model.Genero;
+import br.com.filipepinato.meusgames.models.Genero;
 
 public class CustomSpinnerAdapter extends BaseAdapter implements SpinnerAdapter {
 
